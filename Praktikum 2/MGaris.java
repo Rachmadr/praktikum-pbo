@@ -1,3 +1,8 @@
+// Nama         : Rachmad Rifa'i
+// NIM          : 24060122120014
+// Tanggal      : 28-02-2024
+// Deskripsi    : Program utama dari kelas garis
+
 public class MGaris {
     public static void main(String[] args) {
         Garis g1;

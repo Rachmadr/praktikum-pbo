@@ -1,4 +1,7 @@
-
+// Nama         : Rachmad Rifa'i
+// NIM          : 24060122120014
+// Tanggal      : 28-02-2024
+// Deskripsi    : Kelas yang berisi program kelas garis
 
 public class Garis {
     private Titik titikAwal;
