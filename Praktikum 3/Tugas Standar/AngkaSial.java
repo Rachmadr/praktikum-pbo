@@ -23,3 +23,6 @@ public class AngkaSial {
         }
     }
 }
+
+// Ketika terjadi eksepsi, baris 11 tidak akan tereksekusi karena masuk kedalam kondisional dan terjadi eksepsi sehingga program dibawahnya tidak dijalankan.
+// Baris 20 dieksekusi karena terjadi eksepsi pada baris 18.
